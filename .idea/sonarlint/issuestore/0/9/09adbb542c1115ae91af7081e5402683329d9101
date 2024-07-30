@@ -1,0 +1,11 @@
+
+k
+java:S1192"PDefine a constant instead of duplicating this literal "HttpRequestTask" 3 times.(ø±¼Åúÿÿÿÿ
+L
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(ä€È®ýÿÿÿÿ
+W
+java:S1126$"AReplace this if-then-else statement by a single return statement.(—Ìê½
+e
+java:S1874*"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Œÿµºøÿÿÿÿ
+K
+java:S1874+"5Remove this use of "onPostExecute"; it is deprecated.(Ü«Š„

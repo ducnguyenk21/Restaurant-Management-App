@@ -1,0 +1,11 @@
+
+u
+java:S1450"SRemove the "auth" field and declare it as a local variable in the relevant methods.(Ú‡›æøÿÿÿÿ8û¼Ç¹ó1
+|
+java:S1450"_Remove the "btnResetPassword" field and declare it as a local variable in the relevant methods.(º¬Æ8û¼Ç¹ó1
+t
+java:S1450"WRemove the "edtEmail" field and declare it as a local variable in the relevant methods.(ÌÓ®À8û¼Ç¹ó1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ8†½Ç¹ó1
+_
+java:S1874&"BRemove this use of "fetchSignInMethodsForEmail"; it is deprecated.(¹¬ïå8‹½Ç¹ó1

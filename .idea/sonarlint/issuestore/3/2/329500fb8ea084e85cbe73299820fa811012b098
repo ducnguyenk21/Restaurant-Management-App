@@ -1,0 +1,61 @@
+
+K
+java:S5411¥"(Use a primitive boolean expression here.(Ü¦¤¯şÿÿÿÿ8ñÒñÉğ1
+E
+java:S5411­"(Use a primitive boolean expression here.(œ¯¢8òÒñÉğ1
+Z
+java:S2589Ç"7Remove this expression which always evaluates to "true"(…îşéøÿÿÿÿ8¬ÓñÉğ1
+£
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÏ™ûÿÿÿÿ8æş¹Êğ1
+b
+java:S1659?"EDeclare "edtPhone" and all following declarations on a separate line.(ãş²ç8¸ÓñÉğ1
+F
+java:S1659A")Declare "radioFemale" on a separate line.(¨şãø8¸ÓñÉğ1
+k
+java:S1659D"NDeclare "btnChupAnhDaiDien" and all following declarations on a separate line.(ı£³Û8¸ÓñÉğ1
+~
+java:S1450D"aRemove the "btnCapNhatThongTin" field and declare it as a local variable in the relevant methods.(ı£³Û8¹ÓñÉğ1
+}
+java:S1450D"`Remove the "btnChupAnhDaiDien" field and declare it as a local variable in the relevant methods.(ı£³Û8¹ÓñÉğ1
+|
+java:S1450D"_Remove the "btnXoaAnhDaiDien" field and declare it as a local variable in the relevant methods.(ı£³Û8¹ÓñÉğ1
+z
+java:S1450D"]Remove the "btnXoaTaiKhoan" field and declare it as a local variable in the relevant methods.(ı£³Û8¹ÓñÉğ1
+£
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ÇÓñÉğ1
+O
+java:S1602",Remove useless curly braces around statement(’ˆª¯úÿÿÿÿ8ÉÓñÉğ1
+O
+java:S1602„",Remove useless curly braces around statement(ä±Ù‡úÿÿÿÿ8ÊÓñÉğ1
+J
+java:S1602‡",Remove useless curly braces around statement(á‚µÊ8ÊÓñÉğ1
+J
+java:S1602Š",Remove useless curly braces around statement(—á›Û8ËÓñÉğ1
+O
+java:S1602",Remove useless curly braces around statement(èÛÁåûÿÿÿÿ8ËÓñÉğ1
+O
+java:S1602",Remove useless curly braces around statement(ãÿÕÂşÿÿÿÿ8ËÓñÉğ1
+J
+java:S1602™",Remove useless curly braces around statement(úßİú8ÍÓñÉğ1
+O
+java:S1602œ",Remove useless curly braces around statement(Şêãìşÿÿÿÿ8ÍÓñÉğ1
+m
+java:S1874¯"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(™­²©ùÿÿÿÿ8­ï×„ñ1
+[
+java:S1874°"8Remove this use of "onActivityResult"; it is deprecated.(ß¬©úÿÿÿÿ8®ï×„ñ1
+a
+java:S3252±">Use static access with "android.app.Activity" for "RESULT_OK".(Ùöò¾ùÿÿÿÿ8®ï×„ñ1
+X
+java:S2209±"5Change this instance-reference to a static reference.(Ùöò¾ùÿÿÿÿ8®ï×„ñ1
+I
+java:S1874¶"+Remove this use of "get"; it is deprecated.(Êü²Õ8¯ï×„ñ1
+q
+java:S3252Á"NUse static access with "android.provider.MediaStore$MediaColumns" for "TITLE".(ê†§şÿÿÿÿ8ÚÓñÉğ1
+u
+java:S3252Â"RUse static access with "android.provider.MediaStore$MediaColumns" for "MIME_TYPE".(Úé­£şÿÿÿÿ8ÛÓñÉğ1
+_
+java:S1117Ñ"<Rename "imageUrl" which hides the field declared at line 71.(´·šÂúÿÿÿÿ8İÓñÉğ1
+a
+java:S1874à">Remove this use of "startActivityForResult"; it is deprecated.(£ÃÃšøÿÿÿÿ8ßÓñÉğ1
+a
+java:S1874æ">Remove this use of "startActivityForResult"; it is deprecated.(û•™Éÿÿÿÿÿ8àÓñÉğ1

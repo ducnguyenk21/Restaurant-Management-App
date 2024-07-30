@@ -1,0 +1,14 @@
+
+g	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8¤ΆΒάπ1
+€
+java:S1104#"^Make PICK_IMAGE_REQUEST a static final constant or non-public and provide accessors if needed.(™¦Κϋÿÿÿÿ8Μµάπ1
+Z
+java:S1444#"8Make this "public static PICK_IMAGE_REQUEST" field final(™¦Κϋÿÿÿÿ8Μµάπ1
+
+java:S3008#"]Rename this field "PICK_IMAGE_REQUEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¦Κϋÿÿÿÿ8υµάπ1
+H
+java:S1659"&Declare "edtPrice" on a separate line.(Ί‘υ°ώÿÿÿÿ8όµάπ1
+i
+java:S1659 "GDeclare "btnAddNewD" and all following declarations on a separate line.(•ά„Òÿÿÿÿÿ8όµάπ1
+S
+java:S1874Y"1Remove this use of "getBitmap"; it is deprecated.(¨–’ψϊÿÿÿÿ8ΟΆΒάπ1

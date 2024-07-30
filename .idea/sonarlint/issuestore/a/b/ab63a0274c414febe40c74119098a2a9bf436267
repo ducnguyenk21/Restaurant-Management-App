@@ -1,0 +1,79 @@
+
+j
+java:S1192f"TDefine a constant instead of duplicating this literal "dd/MM/yyyy hh:mm:ss" 3 times.(Ñ˜ŸÑ
+J
+java:S1066r"/Merge this if statement with the enclosing one.(ã¦µùÿÿÿÿ
+C
+java:S1604w"(Make this anonymous inner class a lambda(¬ÁÎéùÿÿÿÿ
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(¬ÁÎéùÿÿÿÿ
+D
+java:S1604à"(Make this anonymous inner class a lambda(¬ÁÎéùÿÿÿÿ
+D
+java:S1604Õ"(Make this anonymous inner class a lambda(¬ÁÎéùÿÿÿÿ
+k
+java:S1104A"PMake url1 a static final constant or non-public and provide accessors if needed.(Ÿ¿²üÿÿÿÿ
+k
+java:S1104A"PMake url2 a static final constant or non-public and provide accessors if needed.(Ÿ¿²üÿÿÿÿ
+p
+java:S1104B"UMake isMatched a static final constant or non-public and provide accessors if needed.(‹Ìˆãüÿÿÿÿ
+E
+java:S1444A"*Make this "public static url1" field final(Ÿ¿²üÿÿÿÿ
+E
+java:S1444A"*Make this "public static url2" field final(Ÿ¿²üÿÿÿÿ
+J
+java:S1444B"/Make this "public static isMatched" field final(‹Ìˆãüÿÿÿÿ
+X
+java:S2259”"BA "NullPointerException" could be thrown; "data" is nullable here.(•ÆÌ
+S
+java:S2589Æ"7Remove this expression which always evaluates to "true"(…îşéøÿÿÿÿ
+t	java:S116C"ZRename this field "REQUEST_CODE_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Âæúûÿÿÿÿ
+\
+java:S1659:"FDeclare "txtTimeIn" and all following declarations on a separate line.(ÅŸâ©
+7
+java:S1659@""Declare "pic2" on a separate line.(¦ãŸ#
+=
+java:S1659A""Declare "url2" on a separate line.(Ÿ¿²üÿÿÿÿ
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¡Œşø
+T
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(şë—¾
+—
+java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+U
+java:S1874Œ">Remove this use of "startActivityForResult"; it is deprecated.(ô“‡ı
+f
+java:S1874’"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(™­²©ùÿÿÿÿ
+T
+java:S1874“"8Remove this use of "onActivityResult"; it is deprecated.(ß¬©úÿÿÿÿ
+A
+java:S1874”"+Remove this use of "get"; it is deprecated.(•ÆÌ
+Y
+java:S1854›"BRemove this useless assignment to local variable "imageReference".(½‘ĞÌ
+J
+java:S1481›"3Remove this unused "imageReference" local variable.(½‘ĞÌ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(¾şÌªúÿÿÿÿ
+M
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(¹‡’×
+F
+java:S1874¸"/Remove this use of "execute"; it is deprecated.(Û­ãê
+j
+java:S3252À"NUse static access with "android.provider.MediaStore$MediaColumns" for "TITLE".(ê†§şÿÿÿÿ
+n
+java:S3252Á"RUse static access with "android.provider.MediaStore$MediaColumns" for "MIME_TYPE".(Úé­£şÿÿÿÿ
+˜
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+F
+java:S1874ì"/Remove this use of "getYear"; it is deprecated.(ƒ“é
+F
+java:S1874ì"/Remove this use of "getYear"; it is deprecated.(ƒ“é
+L
+java:S1874í"0Remove this use of "getMonth"; it is deprecated.(ëƒœìşÿÿÿÿ
+L
+java:S1874í"0Remove this use of "getMonth"; it is deprecated.(ëƒœìşÿÿÿÿ
+K
+java:S1874î"/Remove this use of "getDate"; it is deprecated.(•Æƒìûÿÿÿÿ
+K
+java:S1874î"/Remove this use of "getDate"; it is deprecated.(•Æƒìûÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(ğö”ñúÿÿÿÿ

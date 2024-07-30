@@ -1,0 +1,20 @@
+
+H
+java:S1659C"&Declare "fullname" on a separate line.(°Ì×­ûÿÿÿÿ8ªĞ‰¬ó1
+w
+java:S1450<"ZRemove the "btnThongBao" field and declare it as a local variable in the relevant methods.(½ê°É8«Ğ‰¬ó1
+v
+java:S1450D"YRemove the "cvLocQuyen" field and declare it as a local variable in the relevant methods.(ëŞ—ª8¬Ğ‰¬ó1
+w
+java:S1450@"ZRemove the "edtThongBao" field and declare it as a local variable in the relevant methods.(‹‡·Ó8¬Ğ‰¬ó1
+}
+java:S1450;"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8­Ğ‰¬ó1
+w
+java:S1450>"ZRemove the "userUidList" field and declare it as a local variable in the relevant methods.(“é…Ş8­Ğ‰¬ó1
+o
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¡Œşø8¾Ğ‰¬ó1
+‹
+java:S3252"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ªà¯¤ÿÿÿÿÿ8×Ğ‰¬ó1
+F	java:S108Ê")Either remove or fill this block of code.(å¥‡8ñĞ‰¬ó1
+Y
+java:S1117Õ";Rename "adapter" which hides the field declared at line 61.(‹ïºı8óĞ‰¬ó1

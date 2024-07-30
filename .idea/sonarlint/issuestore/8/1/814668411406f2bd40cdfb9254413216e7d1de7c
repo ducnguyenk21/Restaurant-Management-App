@@ -1,0 +1,35 @@
+
+h
+java:S1659"FDeclare "btnSignUp" and all following declarations on a separate line.(İÙæíşÿÿÿÿ8—Áòò1
+H
+java:S1659"&Declare "edtEmail" on a separate line.(¶ƒŠ‘üÿÿÿÿ8—Áòò1
+‚
+java:S1450"`Remove the "btnForgotPassword" field and declare it as a local variable in the relevant methods.(İÙæíşÿÿÿÿ8—Áòò1
+y
+java:S1450"WRemove the "btnLogin" field and declare it as a local variable in the relevant methods.(İÙæíşÿÿÿÿ8—Áòò1
+z
+java:S1450"XRemove the "btnSignUp" field and declare it as a local variable in the relevant methods.(İÙæíşÿÿÿÿ8—Áòò1
+y
+java:S1450"WRemove the "edtEmail" field and declare it as a local variable in the relevant methods.(¶ƒŠ‘üÿÿÿÿ8‘—Áòò1
+|
+java:S1450"ZRemove the "edtPassword" field and declare it as a local variable in the relevant methods.(¶ƒŠ‘üÿÿÿÿ8‘—Áòò1
+z
+java:S1450"]Remove the "loginViewModel" field and declare it as a local variable in the relevant methods.(Ê³™¯8‘—Áòò1
+t
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Œşÿÿÿÿ8™—Áòò1
+„
+java:S32521"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(á¥Y8ûÒööò1
+…
+java:S3252F"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(¬º¯8ƒÓööò1
+l
+java:S1874X"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8…Óööò1
+[
+java:S1854]">Remove this useless assignment to local variable "permission".(ÔÕó÷8†Óööò1
+L
+java:S1481]"/Remove this unused "permission" local variable.(ÔÕó÷8ˆÓööò1
+x
+java:S3923_"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ËäÂª8ˆÓööò1
+E	java:S108_")Either remove or fill this block of code.(ËäÂª8ˆÓööò1
+E	java:S108`")Either remove or fill this block of code.(å¥‡8ˆÓööò1
+D
+java:S1068"'Remove this unused "TAG" private field.(Ô‹‡½8¡«÷öò1

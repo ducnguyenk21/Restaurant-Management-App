@@ -1,0 +1,9 @@
+
+E
+java:S16044"(Make this anonymous inner class a lambda(ÆñÊÚ8ë”¶“ó1
+{
+java:S1450$"^Remove the "calculateButton" field and declare it as a local variable in the relevant methods.(æðãÈ8Ý•¶“ó1
+£
+java:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ð÷‘Þÿÿÿÿÿ8€Å×“ó1
+U
+java:S1068("3Remove this unused "btnThongKeOrder" private field.(­¶¸–üÿÿÿÿ8ô¯×“ó1

@@ -1,0 +1,19 @@
+
+€
+java:S1450"^Remove the "circleIndicator" field and declare it as a local variable in the relevant methods.(¬şÑæùÿÿÿÿ8şÀ¬ôò1
+r
+java:S1450"URemove the "llNext" field and declare it as a local variable in the relevant methods.(ØàÕ8şÀ¬ôò1
+y
+java:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(¿ˆ•îşÿÿÿÿ8î«ôò1
+q
+java:S1450"TRemove the "mAuth" field and declare it as a local variable in the relevant methods.(ªĞ”’8·Å©ôò1
+z
+java:S1450"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(åÙ¬Ïûÿÿÿÿ8ÿÀ¬ôò1
+c
+java:S18746"ARemove this use of "FragmentStatePagerAdapter"; it is deprecated.(˜˜ßåúÿÿÿÿ8”î«ôò1
+I
+java:S1602:",Remove useless curly braces around statement(”ÈÎó8“Á¬ôò1
+£
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ8”Á¬ôò1
+£
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ8–Á¬ôò1

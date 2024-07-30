@@ -1,0 +1,59 @@
+
+E
+java:S5411"(Use a primitive boolean expression here.(œ¯¢8ëüòÃğ1
+Z
+java:S2589°"7Remove this expression which always evaluates to "true"(…îşéøÿÿÿÿ8´ıòÃğ1
+
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ãâ±8»ıòÃğ1
+b
+java:S16591"EDeclare "edtPhone" and all following declarations on a separate line.(ãş²ç8½ıòÃğ1
+F
+java:S16593")Declare "radioFemale" on a separate line.(¨şãø8½ıòÃğ1
+j
+java:S16595"NDeclare "btnChupAnhDaiDien" and all following declarations on a separate line.(ğ‹ñF8½ıòÃğ1
+}
+java:S14505"aRemove the "btnCapNhatThongTin" field and declare it as a local variable in the relevant methods.(ğ‹ñF8¾ıòÃğ1
+|
+java:S14505"`Remove the "btnChupAnhDaiDien" field and declare it as a local variable in the relevant methods.(ğ‹ñF8¾ıòÃğ1
+v
+java:S14505"ZRemove the "btnDangXuat" field and declare it as a local variable in the relevant methods.(ğ‹ñF8¾ıòÃğ1
+{
+java:S14505"_Remove the "btnXoaAnhDaiDien" field and declare it as a local variable in the relevant methods.(ğ‹ñF8¾ıòÃğ1
+y
+java:S14505"]Remove the "btnXoaTaiKhoan" field and declare it as a local variable in the relevant methods.(ğ‹ñF8¾ıòÃğ1
+
+java:S1450-"_Remove the "serviceViewModel" field and declare it as a local variable in the relevant methods.(¶……üÿÿÿÿ8ÂûÃğ1
+s
+java:S14500"VRemove the "txtInfo" field and declare it as a local variable in the relevant methods.(¨¥´8¿ıòÃğ1
+N
+java:S1602\",Remove useless curly braces around statement(’ˆª¯úÿÿÿÿ8ÉıòÃğ1
+N
+java:S1602_",Remove useless curly braces around statement(ä±Ù‡úÿÿÿÿ8ÊıòÃğ1
+I
+java:S1602b",Remove useless curly braces around statement(á‚µÊ8ÊıòÃğ1
+I
+java:S1602e",Remove useless curly braces around statement(—á›Û8ËıòÃğ1
+N
+java:S1602h",Remove useless curly braces around statement(èÛÁåûÿÿÿÿ8ËıòÃğ1
+N
+java:S1602k",Remove useless curly braces around statement(ãÿÕÂşÿÿÿÿ8ËıòÃğ1
+N
+java:S1602n",Remove useless curly braces around statement(Ÿ²³úûÿÿÿÿ8ÌıòÃğ1
+g
+java:S1874™"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ÒıòÃğ1
+I
+java:S1874 "+Remove this use of "get"; it is deprecated.(Êü²Õ8ÔıòÃğ1
+q
+java:S3252ª"NUse static access with "android.provider.MediaStore$MediaColumns" for "TITLE".(ê†§şÿÿÿÿ8ØıòÃğ1
+u
+java:S3252«"RUse static access with "android.provider.MediaStore$MediaColumns" for "MIME_TYPE".(Úé­£şÿÿÿÿ8ØıòÃğ1
+Z
+java:S1117¹"<Rename "imageUrl" which hides the field declared at line 56.(°‰‚8ÚıòÃğ1
+a
+java:S1874Ç">Remove this use of "startActivityForResult"; it is deprecated.(£ÃÃšøÿÿÿÿ8ßıòÃğ1
+a
+java:S1874Í">Remove this use of "startActivityForResult"; it is deprecated.(û•™Éÿÿÿÿÿ8àıòÃğ1
+V
+java:S1068-"4Remove this unused "serviceViewModel" private field.(¶……üÿÿÿÿ8¾ÂûÃğ1
+H
+java:S10680"+Remove this unused "txtInfo" private field.(¨¥´8ãıòÃğ1

@@ -1,0 +1,25 @@
+
+E
+java:S1604H"(Make this anonymous inner class a lambda(ÏÇ¹8ÔŒì“ó1
+T
+java:S1153‚"1Directly append the argument of String.valueOf().(…Çèıÿÿÿÿ8ÖŒì“ó1
+w
+java:S1450$"ZRemove the "databaseRef" field and declare it as a local variable in the relevant methods.(®ÖÈı8ıì“ó1
+}
+java:S1450%"[Remove the "textCategory" field and declare it as a local variable in the relevant methods.(ƒğ’¢üÿÿÿÿ8ıì“ó1
+z
+java:S1450&"XRemove the "textValue" field and declare it as a local variable in the relevant methods.(êã–‘ùÿÿÿÿ8şì“ó1
+r
+java:S3252e"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ğÂşÿÿÿÿ8–ì“ó1
+m
+java:S3252f"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8—ì“ó1
+r
+java:S3252x"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(„¸ğÂşÿÿÿÿ8·ì“ó1
+m
+java:S3252y"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(œšÌ¾8¸ì“ó1
+n
+java:S3252„"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(œšÌ¾8¹ì“ó1
+n
+java:S3252…"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ûë‰8ºì“ó1
+;
+java:S2119“"Save and re-use this "Random".(¼İÅf8½ì“ó1

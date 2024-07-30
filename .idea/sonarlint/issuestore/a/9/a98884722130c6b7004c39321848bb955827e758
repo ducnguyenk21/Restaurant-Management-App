@@ -1,0 +1,25 @@
+
+E
+java:S5411l"(Use a primitive boolean expression here.(€‘¨Ä8Şô÷Îò1
+F
+java:S5411…"(Use a primitive boolean expression here.(€‘¨Ä8ìÜŸÏò1
+L
+java:S1659,"*Declare "selectedDate" on a separate line.(İ–ˆşÿÿÿÿ8“÷÷Îò1
+I
+java:S1659.",Declare "btnSuaThongTin" on a separate line.(œè­æ8“÷÷Îò1
+u
+java:S1450."XRemove the "btnDelete" field and declare it as a local variable in the relevant methods.(œè­æ8“÷÷Îò1
+z
+java:S1450."]Remove the "btnSuaThongTin" field and declare it as a local variable in the relevant methods.(œè­æ8”÷÷Îò1
+s
+java:S1450*"VRemove the "edtText" field and declare it as a local variable in the relevant methods.(–˜âß8”÷÷Îò1
+y
+java:S1450)"\Remove the "notifUserList" field and declare it as a local variable in the relevant methods.(ì¿î©8”÷÷Îò1
+}
+java:S1450'"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8•÷÷Îò1
+£
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8³¢úÔò1
+]
+java:S1117V"@Rename "selectedDate" which hides the field declared at line 44.(ğÅÁä8õœºÕò1
+R
+java:S1068,"0Remove this unused "selectedDate" private field.(İ–ˆşÿÿÿÿ8ŠºÕò1

@@ -1,0 +1,17 @@
+
+x
+java:S1450#"VRemove the "btnSave" field and declare it as a local variable in the relevant methods.(ÿ£×ˆüÿÿÿÿ8İ É“ó1
+‚
+java:S1450!"eRemove the "recyclerViewActivities" field and declare it as a local variable in the relevant methods.(íğà•8Ş É“ó1
+N
+java:S1602g",Remove useless curly braces around statement(ÕÊ¾øÿÿÿÿ8ı É“ó1
+…
+java:S3252h"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(‹Ú–Ú8ş É“ó1
+I
+java:S1602y",Remove useless curly braces around statement(§ÀÇ8ÿ É“ó1
+…
+java:S3252z"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ù¯Áë8€¡É“ó1
+N
+java:S1602|",Remove useless curly braces around statement(ÕÊ¾øÿÿÿÿ8€¡É“ó1
+Š
+java:S3252}"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(»±¥Öùÿÿÿÿ8€¡É“ó1

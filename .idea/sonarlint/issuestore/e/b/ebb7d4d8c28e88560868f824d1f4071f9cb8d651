@@ -1,0 +1,6 @@
+
+„
+java:S1319"iThe type of "tableList" should be an interface such as "List" rather than the implementation "ArrayList".(É¦û†úÿÿÿÿ
+z
+java:S1319"dThe type of "data" should be an interface such as "List" rather than the implementation "ArrayList".(Š•Ê¤
+7	java:S1319""Add a default case to this switch.(ßöËŠ

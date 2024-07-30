@@ -1,0 +1,15 @@
+
+`
+java:S1659"CDeclare "btnXoa" and all following declarations on a separate line.(ÄÉ„8‚ì­¡ğ1
+t
+java:S1450"WRemove the "btnQuyen" field and declare it as a local variable in the relevant methods.(ÄÉ„8ƒì­¡ğ1
+r
+java:S1450"URemove the "btnXoa" field and declare it as a local variable in the relevant methods.(ÄÉ„8ƒì­¡ğ1
+I
+java:S1602&",Remove useless curly braces around statement(Àìßó8ì­¡ğ1
+N
+java:S16027",Remove useless curly braces around statement(ÕÊ¾øÿÿÿÿ8‘ì­¡ğ1
+G
+java:S1068"*Remove this unused "btnXoa" private field.(ÄÉ„8“ì­¡ğ1
+I
+java:S1068",Remove this unused "btnQuyen" private field.(ÄÉ„8“ì­¡ğ1

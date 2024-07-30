@@ -1,0 +1,15 @@
+
+x
+java:S14500"[Remove the "bottomAppBar" field and declare it as a local variable in the relevant methods.(ß’¿Š8Çë”©ó1
+w
+java:S14505"ZRemove the "btnBackback" field and declare it as a local variable in the relevant methods.(®éØÔ8Èë”©ó1
+W
+java:S1874M"5Remove this use of "onBackPressed"; it is deprecated.(Ş’Ôœüÿÿÿÿ8Ûë”©ó1
+H
+java:S10681"+Remove this unused "toolbar" private field.(ş®º—8íë”©ó1
+M
+java:S10682"+Remove this unused "imgBack" private field.(ŠŒ˜şÿÿÿÿ8îë”©ó1
+H
+java:S10683",Remove this unused "textView" private field.(ìÊõ"8îë”©ó1
+S
+java:S10684"1Remove this unused "homeViewModel" private field.(¿­¶üÿÿÿÿ8îë”©ó1

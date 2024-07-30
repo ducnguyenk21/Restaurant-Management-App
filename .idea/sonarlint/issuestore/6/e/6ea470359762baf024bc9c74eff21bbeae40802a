@@ -1,0 +1,41 @@
+
+E
+java:S1604/"(Make this anonymous inner class a lambda(İ³•Ê8³ÖğÜğ1
+E
+java:S1604C"(Make this anonymous inner class a lambda(è‹’¡8»²—ğ1
+J
+java:S1604I"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8¼²—ğ1
+J
+java:S1604?"(Make this anonymous inner class a lambda(§Ù²™ûÿÿÿÿ8»²—ğ1
+D
+java:S1604<"(Make this anonymous inner class a lambda(ÿâí 8»²—ğ1
+J
+java:S1604]"(Make this anonymous inner class a lambda(™Ø¨¡øÿÿÿÿ8¼²—ğ1
+J
+java:S1604b"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8¼²—ğ1
+J
+java:S1604r"(Make this anonymous inner class a lambda(™Ø¨¡øÿÿÿÿ8¼²—ğ1
+J
+java:S1604w"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8½²—ğ1
+J
+java:S1604n"(Make this anonymous inner class a lambda(§Ù²™ûÿÿÿÿ8¼²—ğ1
+D
+java:S1604k"(Make this anonymous inner class a lambda(ÿâí 8¼²—ğ1
+K
+java:S1604…"(Make this anonymous inner class a lambda(ÕĞ¿ùûÿÿÿÿ8¼²—ğ1
+K
+java:S1604‹"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8—Ã¶Ìğ1
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8îÖğÜğ1
+c
+java:S1128"FRemove this unused import 'com.google.firebase.database.DataSnapshot'.(şÇŒ„8îÖğÜğ1
+i
+java:S1128"GRemove this unused import 'com.google.firebase.database.DatabaseError'.(ˆÔµıÿÿÿÿ8îÖğÜğ1
+n
+java:S1128"LRemove this unused import 'com.google.firebase.database.ValueEventListener'.(‹ŞÜ‹ıÿÿÿÿ8îÖğÜğ1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8îÖğÜğ1
+e
+java:S1128"HRemove this unused import 'vn.mn.quanlynhahang.view.DishManageActivity'.(ÑæˆÅ8îÖğÜğ1
+f
+java:S1128 "IRemove this unused import 'vn.mn.quanlynhahang.view.TableManageActivity'.(‡³µÓ8îÖğÜğ1
